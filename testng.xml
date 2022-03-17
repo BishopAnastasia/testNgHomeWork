@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HWTNG">
+    <test name="one">
+        <classes>
+            <class name="class1"></class>
+        </classes>
+    </test>
+    <test name="two">
+        <classes>
+            <class name="class2"></class>
+        </classes>
+    </test>
+    <test name="three">
+        <classes>
+            <class name="class3"></class>
+        </classes>
+    </test>
+    <test name="four">
+        <classes>
+            <class name="class4"></class>
+        </classes>
+    </test>
+</suite>
